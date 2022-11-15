@@ -1,0 +1,328 @@
+.bckcolor
+{
+    background-color: whitesmoke;
+}
+.brandname-rightpadding
+{
+    padding-right: 50px;
+}
+.joinus-size
+{
+    font-size: 10px;
+    padding: 10px 20px;
+}
+.navbar-text.login_tag
+{
+    color: rgb(8, 98, 233);
+    padding-right: 35px;
+}
+.navbar-paddng
+{
+    padding-right: 150px;
+}
+.joinus
+{
+    color: rgb(8, 98, 233);
+    padding-top: 85px;
+}
+.selling-text-fntsize
+{
+    padding-top: 20px;
+    font-size: 65px;
+}
+.selling-descptn-text
+{
+    font-size: 20px;
+    color: rgb(153, 145, 145);
+    padding-top: 25px;
+}
+.selling-btn-paddng-top
+{
+    padding-top: 25px;
+}
+.selling-btn
+{
+    padding: 10px 20px;
+}
+.camera_img
+{
+    border-radius: 50px;
+}
+.icnpaddng
+  {
+    padding-top: 25px;
+    padding-left: 35px;
+    padding-right: 50px;
+    background-color: white;
+    box-shadow: 4px 4px 6px rgba(139, 125, 125, 0.26);
+  }
+  .diceContainer {
+    display: block;
+    background-color: red;
+    width: 45px;
+    height: 50px;
+    padding-left: 15px;
+    border-radius: 5px;
+  }
+  .cardicon
+{
+    padding-top: 18px;
+    color: white;
+}
+hr
+  {
+    width: 60px;
+    color:  red;
+    opacity: 5;
+    background-color: red;
+ 
+  }
+  .cardpddng
+  {
+    padding-top: 60px;
+    padding-bottom: 75px;
+  }
+  
+  /* part2 */
+  .bckcolor1
+  {
+    background-color: white;
+    padding-top: 165px;
+    padding-bottom: 25PX;
+  }
+
+  .courses-headng-paddng
+{
+  padding-top: 25px;
+  font-size: 55px;
+}
+.course-descptn-text
+{
+    padding-top: 25px;
+    font-size: 18px;
+    color: rgb(153, 145, 145);
+}
+.learn-more-pddng{
+    color: rgb(8, 98, 233);
+    padding-top: 25px;
+    font-size: 20px;
+}
+.redline{
+    border: 5px solid red; 
+}
+.redline-leftpddng
+{
+    padding-left: 15px;
+    padding-top: 90px;
+}
+
+/* start part3 */
+.bckcolor2
+{
+    padding-top:155px;
+    background-color: blanchedalmond;
+}
+.learn-more-pddng{
+    color: rgb(8, 98, 233);
+    padding-top: 25px;
+    font-size: 20px;
+}
+.centered {
+    position: absolute;
+    top: 85%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+  .container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  .heart
+  {
+    background-color: white;
+    padding-right: 28px;
+    padding-top: 8px ;
+    padding-bottom: 8px;
+    border-radius: 20px;
+    margin-right: 6px;
+    color: black;
+  }
+  .top-left {
+    position: absolute;
+    top: 18px;
+    left: 16px;
+  }
+  .sale-btn {
+   background-color: red;
+   color: white;
+   padding: 0px 12px;
+}
+.english-deprtmnt
+{
+    color: rgb(8, 98, 233);
+    padding-top: 15px;
+    font-size: 20px;
+}
+.graphic-desgn
+{
+    color: black;
+    padding-top: 15px;
+    font-size: 20px;
+}
+.english-deprtmnt-text
+{
+    color: rgb(90, 72, 72);
+}
+.dowload-size
+{
+    font-size: 20px;
+    color: rgb(126, 104, 104);
+}
+.price
+{
+    color: rgb(126, 104, 104);
+    font-size: 18px;
+}
+.green-price{
+    color: green;
+    font-size: 18px;
+}
+.clock
+{
+    color: rgb(8, 98, 233);;
+}
+.clock-pddng
+{
+    padding-top: 25px;
+}
+.rnd-lernmore
+{
+    border: 1px solid royalblue;
+    color:royalblue ;
+    font-size: 18px;
+    padding: 10px 20px;
+}
+.upperoddng-crd
+{
+    padding-top: 35px;
+    padding-bottom: 85px;
+}
+/* start part 3 */
+.bckcolor3
+{
+    padding-top:155px;
+    background-color: white;
+}
+.upperpddng-text
+{
+    padding-top: 155px;
+    padding-left: 95px;
+    padding-bottom: 295px;
+    padding-right: 0px;
+}
+.star
+{
+    font-size: 22px;
+    color: gold;
+   
+}
+.fa.start-frth
+{
+    font-size: 22px;
+    color: gold;
+}
+.paddng-img-crlc
+{
+    padding-top: 25px;
+    /* padding-right: 550px; */
+}
+.img-crlc
+{
+    border-radius: 50px;
+}
+.img-name-clr
+{
+    color:royalblue ;
+}
+
+/* start part5 */
+.clr-text
+{
+    color: royalblue;
+    font-size: 20px;
+}
+.clr-text1
+{
+    font-size: 55px;
+}
+.clr-text2
+{
+    padding-top: 15px;
+    font-size: 18px;
+    color: rgb(153, 145, 145);
+}
+.mail-pddng
+{
+    padding-top: 25px;
+    padding-left: 295px;
+    padding-bottom: 85px;
+}
+.chng-clr
+{
+    background-color: whitesmoke;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.footr-text
+{
+    font-size: 30px;
+}
+.bullet-footer
+{
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+
+/* start mobile view */
+@media all and (max-width: 576px) {
+}
+
+@media (min-width: 577px) {
+    html {
+        font-size: 40%;
+    }
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 45%;
+    }
+}
+
+@media (min-width: 992px) {
+    html {
+        font-size: 60%;
+    }
+}
+
+@media (min-width: 1200px) {
+    html {
+        font-size: 80%;
+        
+    }
+    .selling-text-fntsize
+{
+    padding-top: 20px;
+    font-size: 55px;
+}
+}
+
+@media (min-width: 1920px) {
+    html {
+        font-size: 100%;
+    }
+}
+
+/* end mobile view */
